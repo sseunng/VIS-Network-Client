@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='VIS Network Client 2'

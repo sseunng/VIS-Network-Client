@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">VIS Network Client</string>
+    <string name="savename">file.csv</string>
+    <string name="compressname">decopressed.csv</string>
+
+    <string name="IP_label">IP</string>
+    <string name="IP">127.0.0.1</string>
+    <string name="processnumber_label">Process Number</string>
+    <string name="processnumber">10</string>
+    <string name="port_label">Port</string>
+    <string name="port">8000</string>
+    <string name="output_label">Path</string>
+    <string name="output">csvtest</string>
+    <string name="compress_label">Compress</string>
+    <string name="compress_true">True</string>
+    <string name="compress_false">False</string>
+    <string name="console">Console</string>
+
+    <string name="connect">CONNECT</string>
+    <string name="reset">RESET</string>
+</resources>
